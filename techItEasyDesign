@@ -1,0 +1,37 @@
+User Stories
+1.	Als admin wil ik producten kunnen toevoegen, wijzigen of verwijderen, zodat het assortiment met producten
+    up-to-date blijft.
+2.	Als medewerker wil ik producten kunnen zoeken en bekijken, zodat ik klanten kan informeren over de
+    beschikbare voorraad, productdetails, en aanbevolen combinaties met andere producten.
+3.	Als admin wil ik alle verkochte producten en de verkoopdata kunnen bekijken, zodat ik verkooptrends kan
+    identificeren en voorraden beter kan beheren.
+
+
+Functionele requirements
+1.	Als admin wil ik nieuwe tv’s, muurbeugels, ci-modules en afstandsbedieningen kunnen toevoegen om het
+    assortiment up-to-date te houden.
+2.	Als admin wil ik informatie over producten kunnen wijzigen om de productinformatie up-to-date te houden.
+3.	Als admin wil ik producten kunnen verwijderen om producten, die niet langer beschikbaar zijn, uit het
+    systeem te kunnen halen.
+4.	Als medewerker wil ik de huidige voorraad van alle producten kunnen bekijken om klanten te kunnen
+    informeren over het huidige aanbod.
+5.	Als medewerker wil ik van elk product de informatie kunnen bekijken om klanten informatie over een
+    product te kunnen geven.
+6.	Als medewerker wil ik een product kunnen zoeken en de gevonden producten terugkrijgen om snel de
+    informatie over een product te kunnen vinden.
+7.	Als medewerker wil ik kunnen zien met welke producten een product te combineren is om klanten over goede
+    aankoop combinaties te kunnen adviseren.
+8.	Als admin wil ik de huidige voorraad van alle producten kunnen bekijken om de voorraad te kunnen beheren.
+9.	Als admin wil ik alle verkochte producten kunnen bekijken om te weten welke producten veel verkocht worden.
+10.	Als admin wil ik per verkocht product de verkoopdatum kunnen bekijken om verkooptrends te analyseren.
+
+
+Niet functionele-requirements
+1.	Toegang tot het systeem moet beveiligd zijn met authenticatie en autorisatie.
+2.	Het systeem slaat wachtwoorden versleuteld op.
+3.	De applicatie-interface moet beschikbaar zijn in het Nederlands, zodat alle personeelsleden de app kunnen
+    gebruiken.
+4.	Het systeem moet binnen 3 seconden reageren op gebruikersacties, bijv. het zoeken en laden van
+    productinformatie.
+5.	Het systeem moet tot 1.000 producten kunnen opslaan zonder dat de prestaties achteruitgaan.
+
