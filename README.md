@@ -27,7 +27,7 @@ The goal of this project is analyze a case study and identifying classes, relati
 
 ## Class Diagram
 
-![TechItEasy class diagram](./44d50d41-24d2-4ced-8a91-9db05afcecf1.png)
+![TechItEasy class diagram](/assets/techItEasyKlassendiagram.png)
 
 Key design aspects:
 
